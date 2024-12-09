@@ -17,3 +17,6 @@ I'm Vladislav Pozigun, aspiring Data Engineer
 </p>
 
 ## Skills
+Databases: 
+<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Database-MySQL-blue" />
