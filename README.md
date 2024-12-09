@@ -15,9 +15,5 @@ I'm Vladislav Pozigun, aspiring Data Engineer
 <p align='center'>
    📫 How to reach me: <a href='mailto:vladikpo@inbox.ru'>vladikpo@inbox.ru</a>
 </p>
-## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+
+## Skills
