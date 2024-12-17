@@ -32,3 +32,9 @@ Other technologies:
 
 Softs: team oriented, mem advanced, responsive to assignments.
 
+## About me
+
+### Education:
+
+- 👩‍🎓 **СFU** Bachelors degree in Software Engineering (2019-2023)
+- 👩‍🎓 **HSE** Masters degree in Software Engineering/DE (2024-2026)
