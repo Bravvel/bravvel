@@ -32,6 +32,12 @@ Other technologies:
 
 Softs: team oriented, mem advanced, responsive to assignments.
 
+## Working expirience
+
+- 👨‍💻 **Backend Developer**\
+📆 december 2024 - moment\
+📍 **КРЫМТЕХНОЛОГИИ** - Simferopol, Russia\
+
 ## About me
 
 ### Education:
