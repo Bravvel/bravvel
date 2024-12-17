@@ -34,7 +34,7 @@ Softs: team oriented, mem advanced, responsive to assignments.
 
 ## Working expirience
 
-- 👨‍💻 **Backend Developer**\
+- 👨‍💻 **Data Engineer**\
 📆 december 2024 - moment\
 📍 **КРЫМТЕХНОЛОГИИ** - Simferopol, Russia\
 
