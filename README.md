@@ -44,3 +44,6 @@ Softs: team oriented, mem advanced, responsive to assignments.
 
 - 👩‍🎓 **СFU** Bachelors degree in Software Engineering (2019-2023)
 - 👩‍🎓 **HSE** Masters degree in Software Engineering/DE (2024-2026)
+
+## Check my projects
+[Reinforcement learning agent in game Gomoku](https://github.com/Bravvel/Five-in-row)
