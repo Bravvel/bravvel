@@ -27,12 +27,6 @@ Programming languages:
 
 Softs: team oriented, mem advanced, responsive to assignments.
 
-## Working expirience
-
-- 👨‍💻 **Data Engineer**\
-📆 december 2024 - moment\
-📍 **КРЫМТЕХНОЛОГИИ** - Simferopol, Russia\
-
 ## About me
 
 ### Education:
